@@ -1,7 +1,7 @@
 ### Hi there! I'm Bruno Ribeiro,
 
-- 📚 I'm currently studying Software Engineering in the University
-- 💻 learning Python and C
+- 📚 I'm studying Software Engineering in the University
+- 💻 Currently learning Python and C
 
 <div align="center">
   <a href="https://github.com/brunoriibeiro">
