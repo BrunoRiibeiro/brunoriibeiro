@@ -1,6 +1,6 @@
 ### Hi there! I'm Bruno Ribeiro,
 
-- 📚 I'm currently studying software Engineering in the University
+- 📚 I'm currently studying Software Engineering in the University
 - 💻 learning Python and C
 
 <div align="center">
