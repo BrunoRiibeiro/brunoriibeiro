@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Bruno Ribeiro!
+### Hi there! I'm Bruno Ribeiro,
 
 - 📚 I'm currently studying software Engineering in the University
 - 💻 learning Python and C
