@@ -1,8 +1,7 @@
 ### SUP everyone! I'm Bruno Ribeiro,
-
 - 📚 I'm studying Software Engineering in the University
 - 💻 Currently learning Python and C
-
+##
 <div align="center">
   <a href="https://github.com/brunoriibeiro">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoriibeiro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
