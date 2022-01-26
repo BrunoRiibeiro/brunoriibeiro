@@ -1,5 +1,5 @@
 ### SUP everyone! I'm Bruno Ribeiro,
-- 📚 I'm studying Software Engineering at the University
+- 📚 I'm majoring in Software Engineering at the University of Brasília
 - 💻 Currently learning Python and C/C++
 ##
 <div align="center">
