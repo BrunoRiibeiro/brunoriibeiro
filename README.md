@@ -4,7 +4,7 @@
 ##
 <div align="center">
   <a href="https://github.com/brunoriibeiro">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoriibeiro&show_icons=true&theme=solarized-light&include_all_commits=false&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunoriibeiro&show_icons=true&theme=solarized-light&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunoriibeiro&layout=compact&langs_count=7&&count_private=true&theme=solarized-light"/>
 </div>
   
