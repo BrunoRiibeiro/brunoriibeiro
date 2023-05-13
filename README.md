@@ -1,6 +1,6 @@
 ### SUP everyone! I'm Bruno Ribeiro,
 - I'm majoring in Software Engineering at the University of Brasília
-- Currently learning Python, Java and C/C++
+- Currently studying Python, Java and C/C++
 
 ##
 
