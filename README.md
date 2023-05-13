@@ -2,7 +2,7 @@
 - I'm majoring in Software Engineering at the University of Brasília
 - Currently studying Assembly, Python, Java and C/C++
 
-##
+---
 
 <div align="center">
   <a href="https://github.com/brunoriibeiro">
