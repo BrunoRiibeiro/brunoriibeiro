@@ -1,6 +1,6 @@
 ### SUP everyone! I'm Bruno Ribeiro,
 - I'm majoring in Software Engineering at the University of Brasília
-- Currently studying AI Planning and C/C++
+- Currently studying AI Planning, Lisp and C/C++
 
 ---
 
