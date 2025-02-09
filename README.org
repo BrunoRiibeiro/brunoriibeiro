@@ -1,0 +1,3 @@
+*** SUP everyone! I'm Bruno Ribeiro,
+- I'm majoring in Software Engineering at the University of Brasília
+- Currently studying AI Planning, Lisp, embedded systems and C/C++
