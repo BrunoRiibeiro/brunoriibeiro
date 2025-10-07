@@ -1,3 +1,5 @@
 *** SUP everyone! I'm Bruno Ribeiro,
-- I'm majoring in Software Engineering at the University of Brasília
-- Currently studying AI Planning, Lisp, embedded systems and C/C++
+- I'm majoring in Software Engineering at the University of Brasília.
+- Currently engaged with AI planning, as well as SAT and correlated
+  optimisation problems, parsing and compilers, and have an interest
+  in embedded systems.
